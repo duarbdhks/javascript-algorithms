@@ -8,22 +8,6 @@
 각 알고리즘과 자료 구조에 대해 연관되어있는 설명이 README에 작성되어 있으며,
 링크를 통해 더 자세한 설명을 만날 수 있습니다. (관련된 YouTube 영상도 포함).
 
-_Read this in other languages:_
-[_English_](https://github.com/trekhleb/javascript-algorithms/),
-[_简体中文_](README.zh-CN.md),
-[_繁體中文_](README.zh-TW.md),
-[_日本語_](README.ja-JP.md),
-[_Polski_](README.pl-PL.md),
-[_Français_](README.fr-FR.md),
-[_Español_](README.es-ES.md),
-[_Português_](README.pt-BR.md),
-[_Русский_](README.ru-RU.md),
-[_Türk_](README.tr-TR.md),
-[_Italiana_](README.it-IT.md),
-[_Bahasa Indonesia_](README.id-ID.md),
-[_Українська_](README.uk-UA.md),
-[_Arabic_](README.ar-AR.md)
-
 ## 자료 구조
 
 자료 구조는 데이터를 특정 방식으로 구성하고 저장함으로써 더 효율적으로
@@ -267,7 +251,7 @@ Source: [Big O Cheat Sheet](http://bigocheatsheet.com/).
 
 | 이름                   | 최적            | 평균                 | 최악                | 메모리     | 동일값 순서유지    | 비고       |
 | --------------------- | :-------------: | :-----------------: | :-----------------: | :-------: | :--------------: | :-------- |
-| **거품 정렬**          | n               | n<sup>2</sup>       | n<sup>2</sup>       | 1         | Yes              |           |
+| **버블 정렬**          | n               | n<sup>2</sup>       | n<sup>2</sup>       | 1         | Yes              |           |
 | **삽입 정렬**          | n               | n<sup>2</sup>       | n<sup>2</sup>       | 1         | Yes              |           |
 | **선택 정렬**          | n<sup>2</sup>   | n<sup>2</sup>       | n<sup>2</sup>       | 1         | No               |           |
 | **힙 정렬**            | n&nbsp;log(n)   | n&nbsp;log(n)       | n&nbsp;log(n)       | 1         | No               |           |
